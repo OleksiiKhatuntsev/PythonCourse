@@ -60,3 +60,6 @@ print(4**0.5 != 2)
 l_one = [1,2,[3,4]]
 l_two = [1,2,{'k1':4}]
 print(l_one[2][0] >= l_two[2]['k1'])
+
+def a():
+    print("test")
